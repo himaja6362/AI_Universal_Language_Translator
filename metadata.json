@@ -1,0 +1,6 @@
+{
+  "name": "LinguaFlow AI",
+  "description": "AI-powered multilingual translation workspace with automatic language detection, voice input, text-to-speech, and persistent translation history.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
